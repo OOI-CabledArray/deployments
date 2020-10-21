@@ -1,0 +1,4 @@
+sensorType,referenceDesignator,startTime,endTime,assetID,instrumentSN,githubCalibrationFile,vendorCalibrationFile
+WILCOCK,RS03CCAL-MJ03F-07-AOABPA301,2019-07-05 18:51:00,nan,PIRSN-AOABPA-00001,"['1']",none,none
+WILCOCK,RS03CCAL-MJ03F-08-SCTAAA301,2018-07-06 07:00:00,nan,PIRSN-SCTAAA-00001,"['1']",none,none
+WILCOCK,RS03CCAL-MJ03F-09-SCPRAA301,2018-07-06 07:00:00,nan,PIRSN-SCPRAA-00001,"['1']",none,none
