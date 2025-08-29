@@ -1,2 +1,0 @@
-sensorType,referenceDesignator,startTime,endTime,assetID,instrumentSN,lat,lon,githubCalibrationFile,vendorCalibrationFile
-VACDPB,RS03AXPS-PC03A-06-VADCPB301,2025-08-07 19:10:00,nan,ATAPL-78520-00002,"['104546']",45.816712,-129.754055,none,none
