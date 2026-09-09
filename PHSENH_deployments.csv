@@ -1,4 +1,4 @@
 sensorType,referenceDesignator,startTime,endTime,assetID,instrumentSN,lat,lon,githubCalibrationFile,vendorCalibrationFile
-PHSENH,CE02SHBP-LJ01D-10-PHSENH110,2025-08-28 15:17:00,2026-08-09T19:27:00,ATAPL-91990-00003,"['721-2085']",44.637184,-124.305648,none,none
-PHSENH,CE02SHBP-LJ01D-10-PHSENH110,2026-08-09 22:38:00,nan,ATAPL-91990-00002,"['721-2069']",44.637213,-124.305724,none,none
-PHSENH,CE04OSPS-PC01B-4C-PHSENH109,2025-08-05 14:35:00,nan,ATAPL-91990-00001,"['721-2106']",44.374227,-124.956461,none,none
+PHSENH,CE02SHBP-LJ01D-10-PHSENH110,2025-08-28 15:17:00,2026-08-09T19:27:00,ATAPL-91990-00003,"['721-2085']",44.637184,-124.305648,https://github.com/oceanobservatories/asset-management/blob/master/calibration/PHSENH0/ATAPL-91990-00003__20240819.csv,https://github.com/OOI-CabledArray/calibrationFiles/blob/master/PHSENH/ATAPL-91990-00003__20240819.cal
+PHSENH,CE02SHBP-LJ01D-10-PHSENH110,2026-08-09 22:38:00,nan,ATAPL-91990-00002,"['721-2069']",44.637213,-124.305724,https://github.com/oceanobservatories/asset-management/blob/master/calibration/PHSENH0/ATAPL-91990-00002__20260508.csv,https://github.com/OOI-CabledArray/calibrationFiles/blob/master/PHSENH/ATAPL-91990-00002__20260508.cal
+PHSENH,CE04OSPS-PC01B-4C-PHSENH109,2025-08-05 14:35:00,nan,ATAPL-91990-00001,"['721-2106']",44.374227,-124.956461,https://github.com/oceanobservatories/asset-management/blob/master/calibration/PHSENH0/ATAPL-91990-00001__20240819.csv,https://github.com/OOI-CabledArray/calibrationFiles/blob/master/PHSENH/ATAPL-91990-00001__20240819.cal
